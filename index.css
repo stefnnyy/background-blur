@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Playwrite+CU:wght@100..400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+.main-container{
+    background-color: white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blur {
+    height: 400px;
+    width: 25%;
+    background-image: url(./mexico-citys-downtown-at-twilight-royalty-free-image-1718218501.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 8px;
+    padding: 2rem;
+    display: flex;
+    align-items: end;
+}
+
+h3{
+    color: #F2F4F7;
+    font-size: 24px;
+}
+
+p{
+    color: #F2F4F7;
+    font-weight: 300;
+    font-size: 16px;
+}
