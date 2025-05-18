@@ -1,2 +1,2 @@
-# background-blur
-Simple design exploring background blur
+# progressive-blur
+Simple card design exploring progressive blur
